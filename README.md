@@ -9,6 +9,6 @@
 
 ## 书单
 
-| 书籍 | 作者 |
-|----|----|
-|<img src="/books/linux-kernel-development-3rd.jpg" width="200px;"/>[Linux 内核设计与实现](https://book.douban.com/subject/6097773/) | 作者: Robert Love，译者: 陈莉君 / 康华 |
+|| 书籍 | 作者 |
+|----|----|----|
+|<img src="/books/linux-kernel-development-3rd.jpg" width="150px;"/>|[Linux 内核设计与实现](https://book.douban.com/subject/6097773/) | 作者: Robert Love，译者: 陈莉君 / 康华 |
