@@ -6,3 +6,9 @@
 |----|----|
 | [Linux 内核设计与实现](https://github.com/developer-learning/learning-linux/issues/1) | 0% |
 | [TODO]((https://github.com/developer-learning/learning-linux/issues)) | 0% |
+
+## 书单
+
+| 书籍 | 作者 |
+|----|----|
+|<img src="/books/linux-kernel-development-3rd.jpg" width="200px;"/>[Linux 内核设计与实现](https://book.douban.com/subject/6097773/) | 作者: Robert Love，译者: 陈莉君 / 康华 |
