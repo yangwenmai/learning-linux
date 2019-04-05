@@ -19,4 +19,5 @@
 |<img src="/books/understanding-linux-network-internals.jpg" width="150px;"/>|[深入理解LINUX网络技术内幕](https://book.douban.com/subject/4015134/) | 作者: Christian Benvenuti，译者: 夏安 / 闫江毓 / 黄景昌 |
 |<img src="/books/apue-3rd.jpg" width="150px;"/>|[UNIX环境高级编程](https://book.douban.com/subject/25900403/) | 作者: W.Richard Stevens / Stephen A.Rago，译者: 戚正伟 / 张亚英 / 尤晋元 |
 |<img src="/books/the-linux-programming-interface.jpg" width="150px;"/>|[Linux/UNIX系统编程手册](https://book.douban.com/subject/25809330/) | 作者: Michael Kerrisk，译者: 孙剑 许从年 董健 / 孙余强 郭光伟 陈舸 |
+|<img src="/books/unix-systems-programming.jpg" width="150px;"/>|[UNIX系统编程: 通信、并发与线程](https://book.douban.com/subject/30231496/) | 作者: : Kay Robbins / Steve Robbins，译者: 师蓉 |
 
