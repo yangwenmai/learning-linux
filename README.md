@@ -12,3 +12,4 @@
 || 书籍 | 作者 |
 |----|----|----|
 |<img src="/books/linux-kernel-development-3rd.jpg" width="150px;"/>|[Linux 内核设计与实现](https://book.douban.com/subject/6097773/) | 作者: Robert Love，译者: 陈莉君 / 康华 |
+|<img src="/books/linux-device-drivers-3rd.jpg" width="150px;"/>|[Linux设备驱动程序](https://book.douban.com/subject/1723151/) | 作者: Jonathan Corbet, AlessandroRubini, and Greg Kroah-Hartman，译者:  魏永明 / 耿岳 / 钟书毅 |
