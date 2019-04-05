@@ -12,4 +12,4 @@
 || 书籍 | 作者 |
 |----|----|----|
 |<img src="/books/linux-kernel-development-3rd.jpg" width="150px;"/>|[Linux 内核设计与实现](https://book.douban.com/subject/6097773/) | 作者: Robert Love，译者: 陈莉君 / 康华 |
-|<img src="/books/professional-linux-kernel-architecture.jpg.jpg" width="150px;"/>|[深入Linux内核架构](https://book.douban.com/subject/4843567/) | 作者:  Wolfgang Mauerer，译者: 郭旭   |
+|<img src="/books/professional-linux-kernel-architecture.jpg" width="150px;"/>|[深入Linux内核架构](https://book.douban.com/subject/4843567/) | 作者:  Wolfgang Mauerer，译者: 郭旭   |
