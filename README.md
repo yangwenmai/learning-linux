@@ -15,7 +15,6 @@
 |<img src="/books/professional-linux-kernel-architecture.jpg" width="150px;"/>|[深入Linux内核架构](https://book.douban.com/subject/4843567/) | 作者:  Wolfgang Mauerer，译者: 郭旭   |
 |<img src="/books/linux-device-drivers-3rd.jpg" width="150px;"/>|[Linux设备驱动程序](https://book.douban.com/subject/1723151/) | 作者: Jonathan Corbet, AlessandroRubini, and Greg Kroah-Hartman，译者:  魏永明 / 耿岳 / 钟书毅 |
 |<img src="/books/understanding-the-linux-kernel.jpg" width="150px;"/>|[深入理解LINUX内核](https://book.douban.com/subject/2287506/) | 作者: 博韦，西斯特，译者: 陈莉君 / 张琼声 / 张宏伟 |
-|<img src="/books/professional-linux-kernel-architecture.jpg" width="150px;"/>|[深入Linux内核架构](https://book.douban.com/subject/4843567/) | 作者: Wolfgang Mauerer，译者: 郭旭 |
 |<img src="/books/linux-kernel-source-code-scenario-analysis.jpg" width="150px;"/>|[Linux内核源代码情景分析](https://book.douban.com/subject/1231584/) | 作者: 毛德操 / 胡希明 |
 |<img src="/books/understanding-linux-network-internals.jpg" width="150px;"/>|[深入理解LINUX网络技术内幕](https://book.douban.com/subject/4015134/) | 作者: Christian Benvenuti，译者: 夏安 / 闫江毓 / 黄景昌 |
 |<img src="/books/apue-3rd.jpg" width="150px;"/>|[UNIX环境高级编程](https://book.douban.com/subject/25900403/) | 作者: W.Richard Stevens / Stephen A.Rago，译者: 戚正伟 / 张亚英 / 尤晋元 |
